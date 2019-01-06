@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "58664270186",
+    "firebase_url": "https://zetwork-460da.firebaseio.com",
+    "project_id": "zetwork-460da",
+    "storage_bucket": "zetwork-460da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58664270186:android:71f6cdbc726240d3",
+        "android_client_info": {
+          "package_name": "com.c1ctech.firebasephoneauthproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58664270186-i2g9t4oovu0qjtjn79e55edgasakbh6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c1ctech.firebasephoneauthproject",
+            "certificate_hash": "e680c3ad2ba7b5d4209ed8a26fdc5043f58a4430"
+          }
+        },
+        {
+          "client_id": "58664270186-2q1v6tcsopg3hjlshcnnpid25r81t18s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YGF3ExrlubbmofWJ_b1NZYuLPZdi7fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58664270186-2q1v6tcsopg3hjlshcnnpid25r81t18s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58664270186:android:02a45889c4721757",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.firebasephoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58664270186-cbq08uh4vt48ov4dfgk6qvl0dvsedvfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedcoding.firebasephoneauth",
+            "certificate_hash": "e680c3ad2ba7b5d4209ed8a26fdc5043f58a4430"
+          }
+        },
+        {
+          "client_id": "58664270186-2q1v6tcsopg3hjlshcnnpid25r81t18s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YGF3ExrlubbmofWJ_b1NZYuLPZdi7fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58664270186-2q1v6tcsopg3hjlshcnnpid25r81t18s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
